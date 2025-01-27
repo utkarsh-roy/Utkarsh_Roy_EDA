@@ -34,21 +34,6 @@ This repository contains the solution to the Data Science Assignment for an e-co
 *   Calculated clustering metrics, including the DB Index, Silhouette Score, and Calinski-Harabasz Index.
 *   Visualized the clusters using relevant plots.
 
-## Evaluation Criteria
-
-The submissions were evaluated based on the following criteria:
-
-*   **Task 1: Exploratory Data Analysis:** 25%
-*   **Business Insights:** 15%
-*   **Lookalike Model:** 30%
-*   **Customer Segmentation:** 30%
-
-## How to Run the Code
-
-1.  Clone the repository: `git clone https://github.com/your-username/e-commerce-customer-analysis.git`
-2.  Install the necessary libraries: `pip install -r requirements.txt`
-3.  Open and run the Jupyter Notebooks: `jupyter notebook`
-
 ## Note
 
 *   Ensure that the datasets (Customers.csv, Products.csv, Transactions.csv) are in the same directory as the Jupyter Notebooks.
